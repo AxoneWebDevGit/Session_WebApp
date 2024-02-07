@@ -1,0 +1,8 @@
+C:\Om\GitRepo\Core\Session_WebApp\Session_WebApp\obj\Release\net8.0\PubTmp\Out\Session_WebApp.exe
+C:\Om\GitRepo\Core\Session_WebApp\Session_WebApp\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Om\GitRepo\Core\Session_WebApp\Session_WebApp\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Om\GitRepo\Core\Session_WebApp\Session_WebApp\obj\Release\net8.0\PubTmp\Out\Session_WebApp.dll
+C:\Om\GitRepo\Core\Session_WebApp\Session_WebApp\obj\Release\net8.0\PubTmp\Out\Session_WebApp.deps.json
+C:\Om\GitRepo\Core\Session_WebApp\Session_WebApp\obj\Release\net8.0\PubTmp\Out\Session_WebApp.runtimeconfig.json
+C:\Om\GitRepo\Core\Session_WebApp\Session_WebApp\obj\Release\net8.0\PubTmp\Out\Session_WebApp.pdb
+C:\Om\GitRepo\Core\Session_WebApp\Session_WebApp\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
